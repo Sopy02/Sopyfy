@@ -488,7 +488,7 @@ button.button_afdfd9 /* small buttons */,
 	width: 65%;
 	height: 65%;
 	background: var(--text-4);
-	-webkit-mask-image: url('https://emeraldadventures.neocities.org/test.svg');
+	-webkit-mask-image: url('https://www.svgrepo.com/show/116263/letter-s-with-a-division.svg');
 }
 .wrapper_d281dd:hover .childWrapper__01b9c::before {
 	transition: background-color 0.15s ease-out, transform 0.3s ease-out;
