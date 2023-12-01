@@ -423,7 +423,7 @@ button.button_afdfd9 /* small buttons */,
 	display: none;
 }
 [class^='wordmarkWindows']::after {
-	content: 'SopyDark';
+	content: 'Sopyfy';
 	display: block;
 	position: relative;
 	height: 16px;
