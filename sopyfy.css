@@ -488,7 +488,7 @@ button.button_afdfd9 /* small buttons */,
 	width: 65%;
 	height: 65%;
 	background: var(--text-4);
-	-webkit-mask-image: url('https://svgshare.com/i/10Jr.svg');
+	-webkit-mask-image: url('https://svgur.com/i/10ME.svg');
 }
 .wrapper_d281dd:hover .childWrapper__01b9c::before {
 	transition: background-color 0.15s ease-out, transform 0.3s ease-out;
